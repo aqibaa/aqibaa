@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @aqibaa
 - 👀 Real One, Muhammad Aaqib.
-- 👀 I’m interested in programming & Mature Girls  
-- 🌱 I’m currently learning Javascript & React js
+- 👀 I’m interested in programming and sports
+- 🌱 I’m a FrontEnd Developer
 - 💞️ I’m looking to collaborate on web page/app project.
-- 📫 How to reach me [aaqibaarif2019@gmail.com]
+- 📫 How to reach me [aaqib.codes@gmail.com]
 - ⚡ Fun fact: Watching Movies...
 
 

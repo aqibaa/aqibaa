@@ -22,9 +22,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aqibaa&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+![E-commerce-app](https://github.com/aqibaa/My-E-Shop)
 
-[![](https://visitcount.itsvg.in/api?id=aqibaa&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

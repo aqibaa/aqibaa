@@ -21,11 +21,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![E-commerce-app](https://github.com/aqibaa/My-E-Shop)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
